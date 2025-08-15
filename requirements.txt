@@ -1,0 +1,6 @@
+flask==2.3.3
+sqlalchemy==2.0.43
+pytelegrambotapi==4.14.0
+requests==2.31.0
+pgzero==1.2.1
+
