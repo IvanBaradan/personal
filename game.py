@@ -98,7 +98,6 @@ def on_key_down(key):
     elif key == keys.ESCAPE:
         quit()
 
-# Initialize game
 print("Окно игры запущено")
 
 if __name__ == "__main__":
